@@ -27,7 +27,7 @@ header{
 header > h1{
     margin-bottom: 8px;
     font-family: var(--font2);
-    font-size: 8em;
+    font-size: 10vh;
     font-weight: normal;
 }
 header p{
@@ -58,13 +58,14 @@ main{
     padding: 30px;
     display: block;
     margin: auto;
+    background-color: white;
 }
 
 #p01{
     min-width: 300px;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: inline-block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     margin-left: 30px;
@@ -84,9 +85,9 @@ main{
     background-color: rgba(0, 0, 0, 0.473);
     margin-left: 30px;
     margin-top: 10px;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: inline-block;
+    line-height: 2em;    
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     padding: 30px;
@@ -100,9 +101,9 @@ main{
 #p03{
     margin: auto;
     color: black;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: inline-block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     margin-left: 30px;
@@ -111,9 +112,9 @@ main{
 #p003{
     margin: auto;
     color: black;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     margin-left: 30px;
@@ -132,9 +133,9 @@ main{
     background-color: rgba(0, 0, 0, 0.473);
     margin-left: 30px;
     margin-top: 10px;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: inline-block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     padding: 20px;
@@ -148,9 +149,9 @@ main{
 #p05{
     margin: auto;
     color: black;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: inline-block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     margin-left: 30px;
@@ -159,9 +160,9 @@ main{
 #p005{
     margin: auto;
     color: black;
-    width: 500px;
-    line-height: 100px;
-    font-size: 3em;
+    display: block;
+    line-height: 2em;
+    font-size: 4.5vh;
     font-weight: normal;
     font-family: var(--font3);
     margin-left: 30px;
