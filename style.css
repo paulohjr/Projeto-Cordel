@@ -15,12 +15,13 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
 }
 
 header{
     background-color: black;
     padding: 30px;
-       color: white;
+    color: white;
     text-align: center;
     display: block;
 }
@@ -175,9 +176,11 @@ footer{
     margin-bottom: 0px;
     margin: auto;
     padding: 8px;
-
 }
-
+footer p{
+    font-size: 3.5vh;
+    margin: auto;
+}
 footer span{
     font-weight: bolder;
 }
