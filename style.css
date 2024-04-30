@@ -74,7 +74,7 @@ main{
 }
 
 #container02{
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/imagem1.jpeg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -121,7 +121,7 @@ main{
     margin-left: 30px;
 }
 #container04{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/imagem2.jpeg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
