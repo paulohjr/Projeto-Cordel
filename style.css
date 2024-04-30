@@ -61,7 +61,7 @@ header a:hover{
 }
 
 #container02{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url('imagens/background001.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -110,7 +110,7 @@ header a:hover{
     margin-left: 30px;
 }
 #container04{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url('imagens/background002.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
